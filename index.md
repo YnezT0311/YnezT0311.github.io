@@ -1,6 +1,6 @@
 ## Welcome to Yao Tong's Personal Page
 
-I’m Yao TONG, a senior student studying Computer Science at The Chinese University of Hong Kong, Shenzhen. My research interests currently lie in AI security and Privacy, like Differential Privacy, Federated Learning and Backdoor Defense. I work as a research assistant at [Secure Computing Lab of Big Data](http://scl.sribd.cn) in SRIBD. And we have tri-weekly [seminars](http://scl.sribd.cn/seminar/index.html) sharing the latest advances in robustness, interpretability, fairness, and privacy of AI models and algorithms. If you are interested, you can subscribe to our YouTube and WeChat Official Account, or contact me for entering our WeChat discussion group.
+I’m Yao TONG, a senior student studying Computer Science at The Chinese University of Hong Kong, Shenzhen. My research interests currently lie in AI security and Privacy, like Differential Privacy, Federated Learning and Backdoor Defense. I work as a research assistant at [Secure Computing Lab of Big Data](http://scl.sribd.cn) in SRIBD. And we have hold tri-weekly [seminars](http://scl.sribd.cn/seminar/index.html) to share the latest advances in robustness, interpretability, fairness, and privacy of AI models and algorithms. If you are interested, you can subscribe to our YouTube and WeChat Official Account, or contact me for entering our WeChat discussion group.
 
 ### Email Address 
 
