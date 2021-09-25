@@ -7,8 +7,8 @@ I’m Yao TONG, a senior student studying Computer Science at The Chinese Univer
 118010282@link.cuhk.edu.cn
 
 ### Selected Personal Experience
-- [On going] Take charge of the program FedSSL under the supervision of Prof. Baoyuan Wu, The University of Hong Konng, Shenzhen. 
-- [Jun 2021] Worked on the program Practical Privacy Filters and Odometers with Rényi Differential Privacy under the supervision of Prof. Mathias Lécuyer, The University of British Columbia.
+- [On going] Take charge of the program FedSSL under the supervision of Prof. Baoyuan Wu, The University of Hong Kong, Shenzhen. 
+- [Jun 2021] Worked on the program [Practical Privacy Filters and Odometers with Rényi Differential Privacy](https://github.com/m-lecuyer/dp-zoo) under the supervision of Prof. Mathias Lécuyer, The University of British Columbia.
 - [Nov 2020] Worked on [AISecMatrix Program](https://github.com/AISecMatrix), a cooperative program of SRIBD with Tencent Zhuque Lab.
-- [Sep 2020] Worked on FedDBD, a privacy preserved federated learning framework, under the supervision of Prof. Baoyuan Wu, The University of Hong Konng, Shenzhen. 
-- [Sep 2019] Participated in the construction of the sentence skeleton-based text generation model under the supervision of Prof. Wei CAI, The University of Hong Konng, Shenzhen.
+- [Sep 2020] Worked on [FedDBD](https://github.com/Spinozaaa/FedML_git), a privacy preserved federated learning framework, under the supervision of Prof. Baoyuan Wu, The University of Hong Kong, Shenzhen. 
+- [Sep 2019] Participated in the construction of the sentence skeleton-based text generation model under the supervision of Prof. Wei CAI, The University of Hong Kong, Shenzhen.
