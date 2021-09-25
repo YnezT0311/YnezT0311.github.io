@@ -1,12 +1,10 @@
 ## Welcome to Yao Tong's Personal Page
 
-You can use the [editor on GitHub](https://github.com/YnezT0311/YnezT0311.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+I’m Yao TONG, a senior student studying Computer Science at The Chinese University of Hong Kong, Shenzhen. My research interests lie on AI security and Privacy, like Differential Privacy, Federated Learning and Backdoor Defense. I'm currently a member of [Secure Computing Lab of Big Data](http://scl.sribd.cn) in SRIBD. And we have tri-weekly [seminars](http://scl.sribd.cn/seminar/index.html) sharing the latest advances in robustness, interpretability, fairness, and privacy of AI models and algorithms. If you are interested, you can subscribe to our YouTube and WeChat Official Account, or contact me for entering our WeChat discussion group.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Email Address 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+118010282@link.cuhk.edu.cn
 
 ```markdown
 Syntax highlighted code block
